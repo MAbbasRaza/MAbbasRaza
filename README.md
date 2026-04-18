@@ -57,15 +57,19 @@ Software Engineer based in **Multan, Pakistan** — 3+ years of practice, 20+ pr
 
 ---
 
-## Trophies
+<!--
+  Trophies section — disabled because github-profile-trophy.vercel.app is
+  currently returning 503 (DEPLOYMENT_PAUSED). Uncomment to re-enable once
+  the upstream service is back.
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=MAbbasRaza&theme=matrix&no-frame=true&margin-w=10&column=7" alt="trophies" />
-  </a>
-</p>
+  ## Trophies
 
----
+  <p align="center">
+    <a href="https://github.com/ryo-ma/github-profile-trophy">
+      <img src="https://github-profile-trophy.vercel.app/?username=MAbbasRaza&theme=matrix&no-frame=true&margin-w=10&column=7" alt="trophies" />
+    </a>
+  </p>
+-->
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00ff7f,100:0D1117&height=120&section=footer" alt="footer banner" />
