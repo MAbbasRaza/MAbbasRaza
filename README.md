@@ -3,11 +3,12 @@
   <img src="./assets/banner.svg" alt="Abbas Raza" />
 </p>
 
-<!-- Role pills (Problem Solver padded with nbsp to equalize width with Full-Stack Engineer) -->
+<!-- Role pills — trailing spacer equalizes row so Systems Builder sits at row center -->
 <p align="center">
   <img src="https://img.shields.io/badge/Full--Stack%20Engineer-1F2937?style=for-the-badge&labelColor=0D1117" alt="Full-Stack Engineer" />
   <img src="https://img.shields.io/badge/Systems%20Builder-1F2937?style=for-the-badge&labelColor=0D1117" alt="Systems Builder" />
-  <img src="https://img.shields.io/badge/%C2%A0%C2%A0%C2%A0Problem%20Solver%C2%A0%C2%A0%C2%A0-1F2937?style=for-the-badge&labelColor=0D1117" alt="Problem Solver" />
+  <img src="https://img.shields.io/badge/Problem%20Solver-1F2937?style=for-the-badge&labelColor=0D1117" alt="Problem Solver" />
+  <img src="./assets/spacer.svg" width="36" height="28" alt="" />
 </p>
 
 <!-- Status pill -->
