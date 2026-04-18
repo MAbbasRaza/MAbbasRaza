@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00ff7f,100:0D1117&height=220&section=header&text=Abbas%20Raza&fontSize=64&fontColor=E6EDF3&fontAlignY=38&animation=fadeIn" alt="header banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,25:064E3B,55:00ff7f,80:064E3B,100:0D1117&height=260&section=header&text=Abbas%20Raza&fontSize=72&fontColor=E6EDF3&fontAlignY=34&desc=Full-Stack%20%C2%B7%20SaaS%20%C2%B7%20ERPs%20%C2%B7%20APIs%20%C2%B7%20Blockchain&descSize=18&descAlign=50&descAlignY=62&animation=fadeIn" alt="header banner" />
 </p>
 
 <!-- Typing headline -->
@@ -37,9 +37,9 @@ Software Engineer based in **Multan, Pakistan** — 3+ years of practice, 20+ pr
 ## Tech I work with
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,laravel,python,solidity,ts,js,tailwind,docker&theme=dark&perline=10" alt="tech row 1" />
+  <img src="https://skillicons.dev/icons?i=js,ts,php,python,solidity,react,nextjs,nodejs,express,laravel,tailwind,materialui&theme=dark&perline=12" alt="languages and frameworks" />
   <br />
-  <img src="https://skillicons.dev/icons?i=aws,postgres,mysql,mongodb,redis,git,github,linux,vscode,figma&theme=dark&perline=10" alt="tech row 2" />
+  <img src="https://skillicons.dev/icons?i=docker,nginx,aws,githubactions,mysql,postgres,mongodb,git,github,linux,postman,vscode&theme=dark&perline=12" alt="devops, databases, and tools" />
 </p>
 
 ---
@@ -47,11 +47,7 @@ Software Engineer based in **Multan, Pakistan** — 3+ years of practice, 20+ pr
 ## GitHub stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MAbbasRaza&show_icons=true&count_private=true&hide_border=false&bg_color=0D1117&title_color=00ff7f&icon_color=00ff7f&text_color=E6EDF3&border_color=00ff7f" height="165" alt="github stats" />
   <img src="https://streak-stats.demolab.com/?user=MAbbasRaza&background=0D1117&border=00ff7f&stroke=00ff7f&ring=00ff7f&fire=00ff7f&currStreakLabel=00ff7f&sideLabels=E6EDF3&dates=E6EDF3&currStreakNum=E6EDF3&sideNums=E6EDF3" height="165" alt="github streak" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MAbbasRaza&layout=compact&langs_count=8&hide_border=false&bg_color=0D1117&title_color=00ff7f&text_color=E6EDF3&border_color=00ff7f" height="165" alt="top languages" />
 </p>
 
