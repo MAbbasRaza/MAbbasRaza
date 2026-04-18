@@ -55,11 +55,7 @@ Software Engineer based in **Pakistan** — 3+ years of practice, 20+ projects d
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,php,python,solidity,react,nextjs,nodejs,express,laravel&theme=dark&perline=10" alt="languages and frameworks" />
-  <br />
-  <img src="https://skillicons.dev/icons?i=tailwind,materialui,docker,cloudflare,nginx,aws,githubactions,postgres&theme=dark&perline=10" alt="ui and devops" />
-  <br />
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,git,github,linux,vscode,postman,discord&theme=dark&perline=10" alt="databases and tools" />
+  <img src="https://skillicons.dev/icons?i=js,ts,php,python,solidity,react,nextjs,nodejs,express,laravel,tailwind,materialui,docker,cloudflare,nginx,aws,githubactions,postgres,mysql,mongodb,git,github,linux,vscode,postman,discord&theme=dark&perline=10" alt="tech stack" />
 </p>
 
 <!-- Branded icons fetched from each tool's official site -->
