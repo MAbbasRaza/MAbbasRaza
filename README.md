@@ -12,7 +12,7 @@
 
 <!-- Status pill -->
 <p align="center">
-  <img src="https://img.shields.io/badge/%E2%97%8F%20Available%20for%20client%20work-0D1117?style=for-the-badge&labelColor=00ff7f&color=1F2937" alt="Available for client work" />
+  <img src="https://img.shields.io/badge/%E2%97%8F%20Available%20for%20work-0D1117?style=for-the-badge&labelColor=00ff7f&color=1F2937" alt="Available for client work" />
 </p>
 
 <!-- Typing headline -->
@@ -46,7 +46,7 @@ Software Engineer based in **Pakistan** — 3+ years of practice, 20+ projects d
 
 - Ship across the stack: **React / Next.js** frontends, **Node / Laravel / Python** backends, **Solidity** contracts.
 - Deliver SaaS platforms, ERPs, APIs, and blockchain systems end-to-end — from schema design to production deploys.
-- 🟢 **Open to client work** — MVP builds, team augmentation, and specialized marketplace / SaaS / Web3 engineering.
+- 🟢 **Open to work** — MVP builds, team augmentation, and specialized marketplace / SaaS / Web3 engineering.
 - Portfolio → **[abbasraza.dev](https://abbasraza.dev)** &nbsp;·&nbsp; LinkedIn → **[abbas-raza-naqvi](https://www.linkedin.com/in/abbas-raza-naqvi)**
 
 <p align="center">
