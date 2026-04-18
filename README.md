@@ -45,7 +45,7 @@
 Software Engineer based in **Pakistan** — 3+ years of practice, 20+ projects delivered.
 
 - Ship across the stack: **React / Next.js** frontends, **Node / Laravel / Python** backends, **Solidity** contracts.
-- Deliver marketplace & SaaS integrations end-to-end — from schema design to production deploys on AWS.
+- Deliver SaaS platforms, ERPs, APIs, and blockchain systems end-to-end — from schema design to production deploys.
 - 🟢 **Open to client work** — MVP builds, team augmentation, and specialized marketplace / SaaS / Web3 engineering.
 - Portfolio → **[abbasraza.dev](https://abbasraza.dev)** &nbsp;·&nbsp; LinkedIn → **[abbas-raza-naqvi](https://www.linkedin.com/in/abbas-raza-naqvi)**
 
