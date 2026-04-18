@@ -37,7 +37,7 @@
 
 <!-- Animated section heading: About -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&color=00FF7F&center=true&vCenter=true&width=400&height=50&lines=About+me&repeat=false" alt="About me" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&color=00FF7F&center=true&vCenter=true&width=400&height=50&lines=About+me&pause=3000" alt="About me" />
 </p>
 
 Software Engineer based in **Pakistan** — 3+ years of practice, 20+ projects delivered.
@@ -51,7 +51,7 @@ Software Engineer based in **Pakistan** — 3+ years of practice, 20+ projects d
 
 <!-- Animated section heading: Tech -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&color=00FF7F&center=true&vCenter=true&width=500&height=50&lines=Tech+I+work+with&repeat=false" alt="Tech I work with" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&color=00FF7F&center=true&vCenter=true&width=500&height=50&lines=Tech+I+work+with&pause=3000" alt="Tech I work with" />
 </p>
 
 <p align="center">
@@ -150,7 +150,7 @@ Software Engineer based in **Pakistan** — 3+ years of practice, 20+ projects d
 
 <!-- Animated section heading: GitHub stats -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&color=00FF7F&center=true&vCenter=true&width=400&height=50&lines=GitHub+stats&repeat=false" alt="GitHub stats" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&color=00FF7F&center=true&vCenter=true&width=400&height=50&lines=GitHub+stats&pause=3000" alt="GitHub stats" />
 </p>
 
 <p align="center">
@@ -166,7 +166,7 @@ Software Engineer based in **Pakistan** — 3+ years of practice, 20+ projects d
   the upstream service is back.
 
   <p align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&color=00FF7F&center=true&vCenter=true&width=300&height=50&lines=Trophies&repeat=false" alt="Trophies" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&color=00FF7F&center=true&vCenter=true&width=300&height=50&lines=Trophies&pause=3000" alt="Trophies" />
   </p>
   <p align="center">
     <a href="https://github.com/ryo-ma/github-profile-trophy">
