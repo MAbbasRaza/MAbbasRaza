@@ -33,7 +33,9 @@
   <img src="https://komarev.com/ghpvc/?username=MAbbasRaza&color=00ff7f&style=for-the-badge&label=Profile+Views" alt="profile views" />
 </p>
 
-<br />
+<p align="center">
+  <img src="./assets/divider.svg" width="100%" height="6" alt="" />
+</p>
 
 <!-- Animated section heading: About -->
 <p align="center">
@@ -47,7 +49,9 @@ Software Engineer based in **Pakistan** — 3+ years of practice, 20+ projects d
 - 🟢 **Open to client work** — MVP builds, team augmentation, and specialized marketplace / SaaS / Web3 engineering.
 - Portfolio → **[abbasraza.dev](https://abbasraza.dev)** &nbsp;·&nbsp; LinkedIn → **[abbas-raza-naqvi](https://www.linkedin.com/in/abbas-raza-naqvi)**
 
-<br />
+<p align="center">
+  <img src="./assets/divider.svg" width="100%" height="6" alt="" />
+</p>
 
 <!-- Animated section heading: Tech -->
 <p align="center">
@@ -146,7 +150,9 @@ Software Engineer based in **Pakistan** — 3+ years of practice, 20+ projects d
   <img src="./assets/icons/ethers.svg" width="72" height="48" title="Ethers.js" alt="Ethers.js" />
 </p>
 
-<br />
+<p align="center">
+  <img src="./assets/divider.svg" width="100%" height="6" alt="" />
+</p>
 
 <!-- Animated section heading: GitHub stats -->
 <p align="center">
@@ -158,7 +164,22 @@ Software Engineer based in **Pakistan** — 3+ years of practice, 20+ projects d
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MAbbasRaza&layout=compact&langs_count=8&hide_border=false&bg_color=0D1117&title_color=00ff7f&text_color=E6EDF3&border_color=00ff7f" height="165" alt="top languages" />
 </p>
 
-<br />
+<p align="center">
+  <img src="./assets/divider.svg" width="100%" height="6" alt="" />
+</p>
+
+<!-- Animated section heading: Activity -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&color=00FF7F&center=true&vCenter=true&width=450&height=50&lines=Contribution+activity&pause=3000" alt="Contribution activity" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MAbbasRaza&bg_color=0D1117&color=00ff7f&line=00ff7f&point=E6EDF3&area=true&hide_border=true&custom_title=Contributions%20over%20time" alt="activity graph" />
+</p>
+
+<p align="center">
+  <img src="./assets/divider.svg" width="100%" height="6" alt="" />
+</p>
 
 <!--
   Trophies section — disabled because github-profile-trophy.vercel.app is
