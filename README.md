@@ -3,17 +3,17 @@
   <img src="./assets/banner.svg" alt="Abbas Raza" />
 </p>
 
-<!-- Role pills + status pill — visually centered via fixed-width table cells -->
-<table align="center">
-  <tr>
-    <td width="230" align="center"><img src="https://img.shields.io/badge/Full--Stack%20Engineer-1F2937?style=for-the-badge&labelColor=0D1117" alt="Full-Stack Engineer" /></td>
-    <td width="230" align="center"><img src="https://img.shields.io/badge/Systems%20Builder-1F2937?style=for-the-badge&labelColor=0D1117" alt="Systems Builder" /></td>
-    <td width="230" align="center"><img src="https://img.shields.io/badge/Problem%20Solver-1F2937?style=for-the-badge&labelColor=0D1117" alt="Problem Solver" /></td>
-  </tr>
-  <tr>
-    <td colspan="3" align="center"><img src="https://img.shields.io/badge/%E2%97%8F%20Available%20for%20work-1F2937?style=for-the-badge&labelColor=1F2937&color=1F2937" alt="Available for work" /></td>
-  </tr>
-</table>
+<!-- Role pills (Problem Solver padded with nbsp to equalize width with Full-Stack Engineer) -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Full--Stack%20Engineer-1F2937?style=for-the-badge&labelColor=0D1117" alt="Full-Stack Engineer" />
+  <img src="https://img.shields.io/badge/Systems%20Builder-1F2937?style=for-the-badge&labelColor=0D1117" alt="Systems Builder" />
+  <img src="https://img.shields.io/badge/%C2%A0%C2%A0%C2%A0Problem%20Solver%C2%A0%C2%A0%C2%A0-1F2937?style=for-the-badge&labelColor=0D1117" alt="Problem Solver" />
+</p>
+
+<!-- Status pill -->
+<p align="center">
+  <img src="https://img.shields.io/badge/%E2%97%8F%20Available%20for%20work-1F2937?style=for-the-badge&labelColor=1F2937&color=1F2937" alt="Available for work" />
+</p>
 
 <!-- Typing headline -->
 <p align="center">
