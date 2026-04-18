@@ -40,7 +40,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&color=00FF7F&center=true&vCenter=true&width=400&height=50&lines=About+me&repeat=false" alt="About me" />
 </p>
 
-Software Engineer based in **Multan, Pakistan** — 3+ years of practice, 20+ projects delivered.
+Software Engineer based in **Pakistan** — 3+ years of practice, 20+ projects delivered.
 
 - Ship across the stack: **React / Next.js** frontends, **Node / Laravel / Python** backends, **Solidity** contracts.
 - Deliver marketplace & SaaS integrations end-to-end — from schema design to production deploys on AWS.
