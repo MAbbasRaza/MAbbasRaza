@@ -6,7 +6,7 @@
 <!-- Role pills -->
 <p align="center">
   <img src="https://img.shields.io/badge/Full--Stack%20Engineer-1F2937?style=for-the-badge&labelColor=0D1117" alt="Full-Stack Engineer" />
-  <img src="https://img.shields.io/badge/Freelancer-1F2937?style=for-the-badge&labelColor=0D1117" alt="Freelancer" />
+  <img src="https://img.shields.io/badge/Systems%20Builder-1F2937?style=for-the-badge&labelColor=0D1117" alt="Systems Builder" />
   <img src="https://img.shields.io/badge/Problem%20Solver-1F2937?style=for-the-badge&labelColor=0D1117" alt="Problem Solver" />
 </p>
 
