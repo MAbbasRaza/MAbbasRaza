@@ -12,7 +12,7 @@
 
 <!-- Status pill -->
 <p align="center">
-  <img src="https://img.shields.io/badge/%E2%97%8F%20Available%20for%20work-0D1117?style=for-the-badge&labelColor=00ff7f&color=1F2937" alt="Available for client work" />
+  <img src="https://img.shields.io/badge/%E2%97%8F%20Available%20for%20work-1F2937?style=for-the-badge&labelColor=1F2937&color=1F2937" alt="Available for work" />
 </p>
 
 <!-- Typing headline -->
