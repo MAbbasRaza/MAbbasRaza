@@ -72,7 +72,7 @@ Software Engineer based in **Pakistan** — 3+ years of practice, 20+ projects d
   &nbsp;
   <img src="./assets/icons/cpanel.svg" width="48" height="48" title="cPanel" alt="cPanel" />
   &nbsp;
-  <img src="./assets/icons/ganache.svg" width="72" height="48" title="Ganache" alt="Ganache" />
+  <img src="./assets/icons/ganache.svg" width="58" height="48" title="Ganache" alt="Ganache" />
   &nbsp;
   <img src="./assets/icons/ipfs.svg" width="48" height="48" title="IPFS" alt="IPFS" />
 </p>
