@@ -66,10 +66,28 @@ Software Engineer based in **Pakistan** — 3+ years of practice, 20+ projects d
   <img src="https://img.shields.io/badge/Shadcn%20UI-0D1117?style=for-the-badge&logo=shadcnui&logoColor=E6EDF3" alt="Shadcn UI" />
   <img src="https://img.shields.io/badge/Framer%20Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" alt="Framer Motion" />
   <img src="https://img.shields.io/badge/Aceternity%20UI-1F2937?style=for-the-badge&labelColor=0D1117" alt="Aceternity UI" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="CI/CD" />
+  <img src="https://img.shields.io/badge/PM2-2B037A?style=for-the-badge&logo=pm2&logoColor=white" alt="PM2" />
+  <img src="https://img.shields.io/badge/AWS%20EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white" alt="AWS EC2" />
+  <img src="https://img.shields.io/badge/Route%2053-8C4FFF?style=for-the-badge&logo=amazonroute53&logoColor=white" alt="Route 53" />
+  <img src="https://img.shields.io/badge/cPanel-FF6C2C?style=for-the-badge&logo=cpanel&logoColor=white" alt="cPanel" />
+  <img src="https://img.shields.io/badge/WHM-0F1C2E?style=for-the-badge&labelColor=0D1117" alt="WHM" />
+  <img src="https://img.shields.io/badge/hPanel-673DE6?style=for-the-badge&labelColor=0D1117" alt="hPanel" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Smart%20Contracts-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white" alt="Smart Contracts" />
+  <img src="https://img.shields.io/badge/NFTs-FF6B9D?style=for-the-badge&logo=opensea&logoColor=white" alt="NFTs" />
+  <img src="https://img.shields.io/badge/ERC--721-627EEA?style=for-the-badge&logo=ethereum&logoColor=white" alt="ERC-721" />
+  <img src="https://img.shields.io/badge/ERC--721A-8247E5?style=for-the-badge&logo=ethereum&logoColor=white" alt="ERC-721A" />
+  <img src="https://img.shields.io/badge/ERC--4907-F6C343?style=for-the-badge&logo=ethereum&logoColor=0D1117" alt="ERC-4907" />
   <img src="https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3dotjs&logoColor=white" alt="Web3.js" />
   <img src="https://img.shields.io/badge/Ethers.js-2535A0?style=for-the-badge&logo=ethereum&logoColor=white" alt="Ethers.js" />
   <img src="https://img.shields.io/badge/IPFS-65C2CB?style=for-the-badge&logo=ipfs&logoColor=white" alt="IPFS" />
-  <img src="https://img.shields.io/badge/ERC--721-627EEA?style=for-the-badge&logo=ethereum&logoColor=white" alt="ERC-721" />
+  <img src="https://img.shields.io/badge/Ganache-E4A663?style=for-the-badge&logo=ganache&logoColor=0D1117" alt="Ganache" />
 </p>
 
 <p align="center">
