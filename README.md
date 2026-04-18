@@ -62,18 +62,41 @@ Software Engineer based in **Pakistan** — 3+ years of practice, 20+ projects d
   <img src="https://skillicons.dev/icons?i=mysql,mongodb,git,github,linux,vscode,postman,discord&theme=dark&perline=10" alt="databases and tools" />
 </p>
 
+<!-- Branded icons fetched from each tool's official site -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Shadcn%20UI-0D1117?style=for-the-badge&logo=shadcnui&logoColor=E6EDF3" alt="Shadcn UI" />
-  <img src="https://img.shields.io/badge/Framer%20Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" alt="Framer Motion" />
-  <img src="https://img.shields.io/badge/Aceternity%20UI-1F2937?style=for-the-badge&labelColor=0D1117" alt="Aceternity UI" />
+  <img src="./assets/icons/shadcnui.svg" width="48" height="48" title="Shadcn UI" alt="Shadcn UI" />
+  &nbsp;
+  <img src="./assets/icons/motion.png" width="48" height="48" title="Motion (Framer Motion)" alt="Motion" />
+  &nbsp;
+  <img src="./assets/icons/aceternity.png" width="48" height="48" title="Aceternity UI" alt="Aceternity UI" />
+  &nbsp;
+  <img src="./assets/icons/cpanel.svg" width="48" height="48" title="cPanel" alt="cPanel" />
+  &nbsp;
+  <img src="./assets/icons/ganache.svg" width="72" height="48" title="Ganache" alt="Ganache" />
+  &nbsp;
+  <img src="./assets/icons/ipfs.svg" width="48" height="48" title="IPFS" alt="IPFS" />
 </p>
 
+<p align="center">
+  <img src="./assets/icons/jira.svg" width="48" height="48" title="Jira" alt="Jira" />
+  &nbsp;
+  <img src="./assets/icons/clickup.svg" width="48" height="48" title="ClickUp" alt="ClickUp" />
+  &nbsp;
+  <img src="./assets/icons/slack.png" width="48" height="48" title="Slack" alt="Slack" />
+  &nbsp;
+  <img src="./assets/icons/rocketdotchat.svg" width="48" height="48" title="Rocket.Chat" alt="Rocket.Chat" />
+  &nbsp;
+  <img src="./assets/icons/claude.svg" width="48" height="48" title="Claude Code" alt="Claude Code" />
+  &nbsp;
+  <img src="./assets/icons/openclaw.svg" width="48" height="48" title="OpenClaw" alt="OpenClaw" />
+</p>
+
+<!-- Remaining items without dedicated sites — kept as shields.io badges -->
 <p align="center">
   <img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="CI/CD" />
   <img src="https://img.shields.io/badge/PM2-2B037A?style=for-the-badge&logo=pm2&logoColor=white" alt="PM2" />
   <img src="https://img.shields.io/badge/AWS%20EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white" alt="AWS EC2" />
   <img src="https://img.shields.io/badge/Route%2053-8C4FFF?style=for-the-badge&logo=amazonroute53&logoColor=white" alt="Route 53" />
-  <img src="https://img.shields.io/badge/cPanel-FF6C2C?style=for-the-badge&logo=cpanel&logoColor=white" alt="cPanel" />
   <img src="https://img.shields.io/badge/WHM-0F1C2E?style=for-the-badge&labelColor=0D1117" alt="WHM" />
   <img src="https://img.shields.io/badge/hPanel-673DE6?style=for-the-badge&labelColor=0D1117" alt="hPanel" />
 </p>
@@ -86,17 +109,6 @@ Software Engineer based in **Pakistan** — 3+ years of practice, 20+ projects d
   <img src="https://img.shields.io/badge/ERC--4907-F6C343?style=for-the-badge&logo=ethereum&logoColor=0D1117" alt="ERC-4907" />
   <img src="https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3dotjs&logoColor=white" alt="Web3.js" />
   <img src="https://img.shields.io/badge/Ethers.js-2535A0?style=for-the-badge&logo=ethereum&logoColor=white" alt="Ethers.js" />
-  <img src="https://img.shields.io/badge/IPFS-65C2CB?style=for-the-badge&logo=ipfs&logoColor=white" alt="IPFS" />
-  <img src="https://img.shields.io/badge/Ganache-E4A663?style=for-the-badge&logo=ganache&logoColor=0D1117" alt="Ganache" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira" />
-  <img src="https://img.shields.io/badge/ClickUp-7B68EE?style=for-the-badge&logo=clickup&logoColor=white" alt="ClickUp" />
-  <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" alt="Slack" />
-  <img src="https://img.shields.io/badge/Rocket.Chat-F5455C?style=for-the-badge&logo=rocketdotchat&logoColor=white" alt="Rocket.Chat" />
-  <img src="https://img.shields.io/badge/Claude%20Code-D97706?style=for-the-badge&logo=claude&logoColor=white" alt="Claude Code" />
-  <img src="https://img.shields.io/badge/OpenClaw-1F2937?style=for-the-badge&labelColor=0D1117" alt="OpenClaw" />
 </p>
 
 <br />
