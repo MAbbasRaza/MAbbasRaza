@@ -57,18 +57,28 @@ Software Engineer based in **Pakistan** — 3+ years of practice, 20+ projects d
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,php,python,solidity,react,nextjs,nodejs,express,laravel&theme=dark&perline=10" alt="languages and frameworks" />
   <br />
-  <img src="https://skillicons.dev/icons?i=tailwind,materialui,shadcnui,framer,docker,cloudflare,nginx,aws,githubactions,postgres&theme=dark&perline=10" alt="ui and devops" />
+  <img src="https://skillicons.dev/icons?i=tailwind,materialui,docker,cloudflare,nginx,aws,githubactions,postgres&theme=dark&perline=10" alt="ui and devops" />
   <br />
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,git,github,linux,vscode,postman,jira,slack,discord&theme=dark&perline=10" alt="databases and tools" />
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,git,github,linux,vscode,postman,discord&theme=dark&perline=10" alt="databases and tools" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Aceternity%20UI-0D1117?style=for-the-badge&labelColor=0D1117&color=1F2937" alt="Aceternity UI" />
-  <img src="https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white" alt="Web3.js" />
+  <img src="https://img.shields.io/badge/Shadcn%20UI-0D1117?style=for-the-badge&logo=shadcnui&logoColor=E6EDF3" alt="Shadcn UI" />
+  <img src="https://img.shields.io/badge/Framer%20Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" alt="Framer Motion" />
+  <img src="https://img.shields.io/badge/Aceternity%20UI-1F2937?style=for-the-badge&labelColor=0D1117" alt="Aceternity UI" />
+  <img src="https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3dotjs&logoColor=white" alt="Web3.js" />
   <img src="https://img.shields.io/badge/Ethers.js-2535A0?style=for-the-badge&logo=ethereum&logoColor=white" alt="Ethers.js" />
   <img src="https://img.shields.io/badge/IPFS-65C2CB?style=for-the-badge&logo=ipfs&logoColor=white" alt="IPFS" />
   <img src="https://img.shields.io/badge/ERC--721-627EEA?style=for-the-badge&logo=ethereum&logoColor=white" alt="ERC-721" />
-  <img src="https://img.shields.io/badge/Claude%20Code-D97706?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude Code" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira" />
+  <img src="https://img.shields.io/badge/ClickUp-7B68EE?style=for-the-badge&logo=clickup&logoColor=white" alt="ClickUp" />
+  <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" alt="Slack" />
+  <img src="https://img.shields.io/badge/Rocket.Chat-F5455C?style=for-the-badge&logo=rocketdotchat&logoColor=white" alt="Rocket.Chat" />
+  <img src="https://img.shields.io/badge/Claude%20Code-D97706?style=for-the-badge&logo=claude&logoColor=white" alt="Claude Code" />
+  <img src="https://img.shields.io/badge/OpenClaw-1F2937?style=for-the-badge&labelColor=0D1117" alt="OpenClaw" />
 </p>
 
 <br />
