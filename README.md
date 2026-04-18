@@ -55,7 +55,38 @@ Software Engineer based in **Pakistan** — 3+ years of practice, 20+ projects d
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,php,python,solidity,react,nextjs,nodejs,express,laravel,tailwind,materialui,docker,cloudflare,nginx,aws,githubactions,postgres,mysql,mongodb,git,github,linux,vscode,postman,discord&theme=dark&perline=10" alt="tech stack" />
+  <img src="./assets/icons/si-js.svg" width="48" height="48" title="JavaScript" alt="JavaScript" />
+  <img src="./assets/icons/si-ts.svg" width="48" height="48" title="TypeScript" alt="TypeScript" />
+  <img src="./assets/icons/si-php.svg" width="48" height="48" title="PHP" alt="PHP" />
+  <img src="./assets/icons/si-python.svg" width="48" height="48" title="Python" alt="Python" />
+  <img src="./assets/icons/si-solidity.svg" width="48" height="48" title="Solidity" alt="Solidity" />
+  <img src="./assets/icons/si-react.svg" width="48" height="48" title="React" alt="React" />
+  <img src="./assets/icons/si-nextjs.svg" width="48" height="48" title="Next.js" alt="Next.js" />
+  <img src="./assets/icons/si-nodejs.svg" width="48" height="48" title="Node.js" alt="Node.js" />
+  <img src="./assets/icons/si-express.svg" width="48" height="48" title="Express.js" alt="Express.js" />
+  <img src="./assets/icons/si-laravel.svg" width="48" height="48" title="Laravel" alt="Laravel" />
+</p>
+
+<p align="center">
+  <img src="./assets/icons/si-tailwind.svg" width="48" height="48" title="Tailwind CSS" alt="Tailwind CSS" />
+  <img src="./assets/icons/si-materialui.svg" width="48" height="48" title="Material UI" alt="Material UI" />
+  <img src="./assets/icons/si-docker.svg" width="48" height="48" title="Docker" alt="Docker" />
+  <img src="./assets/icons/si-cloudflare.svg" width="48" height="48" title="Cloudflare" alt="Cloudflare" />
+  <img src="./assets/icons/si-nginx.svg" width="48" height="48" title="Nginx" alt="Nginx" />
+  <img src="./assets/icons/si-aws.svg" width="48" height="48" title="AWS" alt="AWS" />
+  <img src="./assets/icons/si-githubactions.svg" width="48" height="48" title="GitHub Actions" alt="GitHub Actions" />
+  <img src="./assets/icons/si-postgres.svg" width="48" height="48" title="PostgreSQL" alt="PostgreSQL" />
+</p>
+
+<p align="center">
+  <img src="./assets/icons/si-mysql.svg" width="48" height="48" title="MySQL" alt="MySQL" />
+  <img src="./assets/icons/si-mongodb.svg" width="48" height="48" title="MongoDB" alt="MongoDB" />
+  <img src="./assets/icons/si-git.svg" width="48" height="48" title="Git" alt="Git" />
+  <img src="./assets/icons/si-github.svg" width="48" height="48" title="GitHub" alt="GitHub" />
+  <img src="./assets/icons/si-linux.svg" width="48" height="48" title="Linux" alt="Linux" />
+  <img src="./assets/icons/si-vscode.svg" width="48" height="48" title="VS Code" alt="VS Code" />
+  <img src="./assets/icons/si-postman.svg" width="48" height="48" title="Postman" alt="Postman" />
+  <img src="./assets/icons/si-discord.svg" width="48" height="48" title="Discord" alt="Discord" />
 </p>
 
 <!-- Branded icons fetched from each tool's official site -->
