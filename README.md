@@ -43,12 +43,13 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&color=00FF7F&center=true&vCenter=true&width=400&height=50&lines=About+me&pause=1000&duration=11000" alt="About me" />
 </p>
 
-Software Engineer based in **Pakistan** — 3+ years of practice, 20+ projects delivered.
+Software Engineer with 3+ years of practice, 20+ projects delivered.
 
 - Ship across the stack -> **React / Next.js** frontends, **Node / Laravel / Python** backends, **Solidity** contracts.
 - Deliver -> SaaS platforms, ERPs, APIs, and blockchain systems end-to-end, from schema design to production deploys.
 - 🟢 **Open to work** -> MVP builds, team augmentation, and specialized marketplace / SaaS / Web3 engineering.
-- Portfolio -> **[abbasraza.dev](https://abbasraza.dev)** &nbsp;·&nbsp; LinkedIn → **[abbas-raza-naqvi](https://www.linkedin.com/in/abbas-raza-naqvi)**
+- Portfolio -> **[abbasraza.dev](https://abbasraza.dev)**
+- LinkedIn -> **[abbas-raza-naqvi](https://www.linkedin.com/in/abbas-raza-naqvi)**
 
 <p align="center">
   <img src="./assets/divider.svg" width="100%" height="6" alt="" />
