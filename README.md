@@ -159,12 +159,12 @@ Software Engineer based in **Pakistan** — 3+ years of practice, 20+ projects d
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&color=00FF7F&center=true&vCenter=true&width=400&height=50&lines=GitHub+stats&pause=1000&duration=11000" alt="GitHub stats" />
 </p>
-<!--
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=MAbbasRaza&background=0D1117&border=00ff7f&stroke=00ff7f&ring=00ff7f&fire=00ff7f&currStreakLabel=00ff7f&sideLabels=E6EDF3&dates=E6EDF3&currStreakNum=E6EDF3&sideNums=E6EDF3" height="165" alt="github streak" />
+<!--
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MAbbasRaza&layout=compact&langs_count=8&hide_border=false&bg_color=0D1117&title_color=00ff7f&text_color=E6EDF3&border_color=00ff7f" height="165" alt="top languages" />
-</p>
 -->
+</p>
 <p align="center">
   <img src="./assets/divider.svg" width="100%" height="6" alt="" />
 </p>
