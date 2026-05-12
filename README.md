@@ -40,7 +40,7 @@
 
 <!-- Animated section heading: About -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&color=00FF7F&center=true&vCenter=true&width=400&height=50&lines=About+me&pause=1000&duration=11000" alt="What I Do" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&color=00FF7F&center=true&vCenter=true&width=400&height=50&lines=What+I+Do&pause=1000&duration=11000" alt="What I Do" />
 </p>
 
 - Ship across the stack -> **React / Next.js** frontends, **Node / Laravel / Python** backends, **Solidity** contracts.
