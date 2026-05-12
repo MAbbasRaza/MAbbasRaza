@@ -40,10 +40,8 @@
 
 <!-- Animated section heading: About -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&color=00FF7F&center=true&vCenter=true&width=400&height=50&lines=About+me&pause=1000&duration=11000" alt="About me" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&color=00FF7F&center=true&vCenter=true&width=400&height=50&lines=About+me&pause=1000&duration=11000" alt="What I Do" />
 </p>
-
-Software Engineer with 3+ years of practice, 20+ projects delivered.
 
 - Ship across the stack -> **React / Next.js** frontends, **Node / Laravel / Python** backends, **Solidity** contracts.
 - Deliver -> SaaS platforms, ERPs, APIs, and blockchain systems end-to-end, from schema design to production deploys.
