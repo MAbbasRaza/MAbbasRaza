@@ -174,7 +174,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MAbbasRaza&bg_color=0D1117&color=00ff7f&line=00ff7f&point=E6EDF3&area=true&hide_border=true&custom_title=Contributions%20over%20time" alt="activity graph" />
+  <img src="https://raw.githubusercontent.com/MAbbasRaza/MAbbasRaza/output/activity-graph.svg" alt="activity graph" />
 </p>
 
 <p align="center">

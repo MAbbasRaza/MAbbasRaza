@@ -1,0 +1,39 @@
+name: Update activity graph
+
+on:
+  schedule:
+    - cron: "30 0 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: activity-graph
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      # The hosted github-readme-activity-graph.vercel.app deployment is disabled (HTTP 402),
+      # so the graph is rendered here and served from the orphan "output" branch.
+      - name: Generate activity graph
+        uses: maurodesouza/github-readme-activity-graph-action@6411849745757299611a795fef822a31ca8d1d02 # v1
+        with:
+          username: MAbbasRaza
+          options: bg_color=0D1117&color=00ff7f&line=00ff7f&point=E6EDF3&area=true&hide_border=true&custom_title=Contributions%20over%20time
+          output_path: dist/activity-graph.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Publish to output branch
+        working-directory: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          git init -q -b output
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add activity-graph.svg
+          git commit -q -m "Update activity graph"
+          git push -f "https://x-access-token:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git" output
